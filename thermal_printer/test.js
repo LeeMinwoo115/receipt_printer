@@ -1,0 +1,1 @@
+const escpos = require('escpos');
